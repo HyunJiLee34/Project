@@ -1,4 +1,4 @@
-긍정(별점 4점 이상) 리뷰 분석
+# 긍정(별점 4점 이상) 리뷰 분석
 
 ## 최빈단어
 
@@ -6,9 +6,11 @@
 
 → 별점 4점이상을 추출했음에도 불구하고 부정적인 리뷰가 아주 많았다. 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/246d987c-beed-421c-9897-0cb171323abb/Untitled.png)
 
-![ABC_wc_positive.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d4804671-176f-45f5-8227-db74f95be621/ABC_wc_positive.png)
+![Untitled (2)](https://user-images.githubusercontent.com/79692017/231321980-6ce2e835-f421-4f6b-a27f-4c40e0cd43cb.png)
+
+![ABC_wc_positive](https://user-images.githubusercontent.com/79692017/231321986-a99b1048-335a-45f5-a320-58e60829eadf.png)
+
 
 ## 토픽 분석
 
@@ -37,15 +39,16 @@
     이런앱 진짜 느리고 쓰레기
     
 
-부정(별점 3점 이하) 리뷰 분석
+# 부정(별점 3점 이하) 리뷰 분석
 
 ## 최빈단어
 
 로그인 , 오류 , 검색, 안되고, 느리고
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/af1cf166-1761-41cc-8095-a83f51de7c09/Untitled.png)
+![Untitled (3)](https://user-images.githubusercontent.com/79692017/231322004-8ac9b6dc-19ac-42c2-b90b-4f3e4e9c4e74.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a950df25-8628-4b57-90f5-e2f5894d37a8/Untitled.png)
+![Untitled (4)](https://user-images.githubusercontent.com/79692017/231322019-dcd83d97-c92a-42a6-8e72-489a6f3602ed.png)
+
 
 ## 토픽 분석
 
